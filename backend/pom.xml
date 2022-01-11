@@ -59,11 +59,10 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
-			<plugin >
-				<groupId> org.apache.maven.plugins </groupId>
-				<artefatoId>maven-resources-plugin</artefatoId>
-				<versão> 3.1.0 </versão>
-			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-resources-plugin</artifactId>
+				</plugin>
 		</plugins>
 	</build>
 
